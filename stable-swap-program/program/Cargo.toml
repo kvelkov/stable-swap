@@ -5,7 +5,7 @@ authors = ["michaelhly <michaelhly@gmail.com>"]
 edition = "2021"
 description = "Saber StableSwap program."
 homepage = "https://saber.so"
-repository = "https://github.com/saber-hq/stable-swap"
+repository = "https://github.com/kvelkov/stable-swap"
 keywords = ["solana", "saber", "program"]
 license = "Apache-2.0"
 
